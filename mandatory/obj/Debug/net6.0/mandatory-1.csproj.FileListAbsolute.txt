@@ -1,0 +1,14 @@
+/home/kasper/Documents/csharp/mandatory/bin/Debug/net6.0/mandatory-1
+/home/kasper/Documents/csharp/mandatory/bin/Debug/net6.0/mandatory-1.deps.json
+/home/kasper/Documents/csharp/mandatory/bin/Debug/net6.0/mandatory-1.runtimeconfig.json
+/home/kasper/Documents/csharp/mandatory/bin/Debug/net6.0/mandatory-1.dll
+/home/kasper/Documents/csharp/mandatory/bin/Debug/net6.0/mandatory-1.pdb
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.AssemblyInfoInputs.cache
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.AssemblyInfo.cs
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.dll
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/refint/mandatory-1.dll
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.pdb
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/mandatory-1.genruntimeconfig.cache
+/home/kasper/Documents/csharp/mandatory/obj/Debug/net6.0/ref/mandatory-1.dll

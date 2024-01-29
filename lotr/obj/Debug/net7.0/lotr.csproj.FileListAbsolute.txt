@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/lotr/bin/Debug/net7.0/lotr
+/home/kasper/Documents/fourthsemester/csharp/lotr/bin/Debug/net7.0/lotr.deps.json
+/home/kasper/Documents/fourthsemester/csharp/lotr/bin/Debug/net7.0/lotr.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/lotr/bin/Debug/net7.0/lotr.dll
+/home/kasper/Documents/fourthsemester/csharp/lotr/bin/Debug/net7.0/lotr.pdb
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.dll
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/refint/lotr.dll
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.pdb
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/lotr.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/lotr/obj/Debug/net7.0/ref/lotr.dll

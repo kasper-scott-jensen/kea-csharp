@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/bin/Debug/net7.0/delegates-events
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/bin/Debug/net7.0/delegates-events.deps.json
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/bin/Debug/net7.0/delegates-events.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/bin/Debug/net7.0/delegates-events.dll
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/bin/Debug/net7.0/delegates-events.pdb
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.dll
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/refint/delegates-events.dll
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.pdb
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/delegates-events.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/delegates-events/obj/Debug/net7.0/ref/delegates-events.dll

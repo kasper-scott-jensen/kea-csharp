@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/classes2/bin/Debug/net7.0/classes2
+/home/kasper/Documents/fourthsemester/csharp/classes2/bin/Debug/net7.0/classes2.deps.json
+/home/kasper/Documents/fourthsemester/csharp/classes2/bin/Debug/net7.0/classes2.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/classes2/bin/Debug/net7.0/classes2.dll
+/home/kasper/Documents/fourthsemester/csharp/classes2/bin/Debug/net7.0/classes2.pdb
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.dll
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/refint/classes2.dll
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.pdb
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/classes2.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/classes2/obj/Debug/net7.0/ref/classes2.dll

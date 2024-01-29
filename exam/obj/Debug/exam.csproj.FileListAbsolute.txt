@@ -1,0 +1,8 @@
+/home/kasper/Documents/csharp/exam/obj/Debug/exam.csproj.AssemblyReference.cache
+/home/kasper/Documents/csharp/exam/obj/Debug/exam.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/csharp/exam/bin/Debug/exam.exe
+/home/kasper/Documents/csharp/exam/bin/Debug/exam.pdb
+/home/kasper/Documents/csharp/exam/obj/Debug/exam.exe
+/home/kasper/Documents/csharp/exam/obj/Debug/exam.pdb
+/home/kasper/Documents/csharp/exam/bin/Debug/System.ComponentModel.Annotations.dll
+/home/kasper/Documents/csharp/exam/obj/Debug/exam.csproj.CopyComplete

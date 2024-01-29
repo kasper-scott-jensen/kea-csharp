@@ -1,0 +1,15 @@
+/home/kasper/Documents/fourthsemester/csharp/arrays/bin/Debug/net7.0/arrays
+/home/kasper/Documents/fourthsemester/csharp/arrays/bin/Debug/net7.0/arrays.deps.json
+/home/kasper/Documents/fourthsemester/csharp/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/home/kasper/Documents/fourthsemester/csharp/arrays/bin/Debug/net7.0/arrays.dll
+/home/kasper/Documents/fourthsemester/csharp/arrays/bin/Debug/net7.0/arrays.pdb
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.dll
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/refint/arrays.dll
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.pdb
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/home/kasper/Documents/fourthsemester/csharp/arrays/obj/Debug/net7.0/ref/arrays.dll
